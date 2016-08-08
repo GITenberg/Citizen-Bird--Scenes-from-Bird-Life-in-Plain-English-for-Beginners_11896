@@ -1,0 +1,43 @@
+_repo: Citizen-Bird--Scenes-from-Bird-Life-in-Plain-English-for-Beginners_11896
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fuertes, Louis Agassiz
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '4612'
+    url: http://www.gutenberg.org/2009/agents/4612
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Agassiz_Fuertes
+creator:
+  authors:
+  - agent_name: Wright, Mabel Osgood
+    aliases:
+    - Wright, James Osborne, Mrs.
+    - Barbara
+    - Wright, Mrs. James Osborne
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '4028'
+    url: http://www.gutenberg.org/2009/agents/4028
+    wikipedia: http://en.wikipedia.org/wiki/Mabel_Osgood_Wright
+  - agent_name: Coues, Elliott
+    birthdate: 1842
+    deathdate: 1899
+    gutenberg_agent_id: '4611'
+    url: http://www.gutenberg.org/2009/agents/4611
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_Coues
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- Juvenile literature'
+- GITenberg
+title: 'Citizen Bird: Scenes from Bird-Life in Plain English for Beginners'
+url: http://www.gutenberg.org/ebooks/11896
